@@ -1,0 +1,6 @@
+total 16
+drwxr-xr-x 3 alsa alsa 4096 Aug 19 21:24 .
+drwxr-xr-x 4 alsa alsa 4096 Aug 19 21:24 ..
+drwxr-xr-x 7 alsa alsa 4096 Aug 19 21:24 .git
+-rw-r--r-- 1 alsa alsa    5 Aug 19 21:24 README.md
+-rw-r--r-- 1 alsa alsa    0 Aug 19 21:24 tt.txt
